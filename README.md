@@ -22,6 +22,9 @@ Creation, as a team, of our very first web page with a professional design using
 In REACT, build a dynamic web app that uses data from an API while adhering to the Agile methodology.
 In a world where superheroes exist but there are no more supervillains, we had the idea to create a platform where these heroes could offer their services for all kinds of events and services. 
 
+### [Rigol'App](https://rigol-app-coline.vercel.app/)
+After two and a half months of training, in groups of five, in React, and within 48 hours, building an application related to disconnection (outdoor activities, sports, meditation...). In an increasingly stressful world, it is crucial not to forget to laugh. Indeed, laughter is a natural stress reliever with unsuspected virtues. Therefore, we decided to create an application that will allow you to laugh alone or in groups 😂.
+
 ### Gems
 First full stack project, this project is a premium marketplace website designed for private individuals to buy and sell luxury products. Built using React (HTML, CSS, and JavaScript) and Express. In progress.
 
