@@ -15,7 +15,7 @@ I am currently finalizing my portfolio in React JS. Available soon...
 
 ## 🚀 Projects
 
-### Wildgram
+### [Wildgram](https://coline1186.github.io/Wildgram/)
 Creation, as a team, of our very first web page with a professional design using HTML, CSS and Vanilla JS after 2 weeks of training. It claimed to be our school's new social network 😉.
 
 ### The Hero Experience
@@ -26,7 +26,7 @@ In a world where superheroes exist but there are no more supervillains, we had t
 First full stack project, this project is a premium marketplace website designed for private individuals to buy and sell luxury products. Built using React (HTML, CSS, and JavaScript) and Express. In progress.
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-Coline1186&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?Coline1186=your-github-Coline1186&show_icons=true&theme=radical)
 
 ## 📫 Get in Touch
 - **Email:** [coline.grosso94@gmail.com](mailto:coline.grosso94@gmail.com)
