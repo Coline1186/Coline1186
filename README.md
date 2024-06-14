@@ -1,6 +1,7 @@
 # 👋 Hello, I'm Coline!
 
-A new passionate frontend developer from Paris currently in web and mobile web development bootcamp training. Here's a little about me:
+A new passionate full stack developer from Paris currently in web and mobile web development bootcamp training. 
+Here's a little about me:
 
 ## 🌱 What I'm Currently Learning
 I am currently finalizing my portfolio in React JS. Available soon...
@@ -34,6 +35,6 @@ First full stack project, this project is a premium marketplace website designed
 Feel free to reach out if you want to collaborate on a project, discuss tech, or or simply offer me a job 😁!
 
 ## 🎨 Fun Fact
-I love to spend my free time exploring the world 🌎, have a drink with my friend 🍜 but above all, what I love most is spending time with my cat 😻.
+I love to spend my free time exploring the world 🌎, have a drink with my friends 🍜 but above all, what I love most is spending time with my cat 😻.
 
 Thanks for visiting my profile!
